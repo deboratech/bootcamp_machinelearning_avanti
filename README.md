@@ -4,4 +4,4 @@ Este repositório foi criado para documentar minhas atividades durante o bootcam
 
 [Site Atlântico Avanti](https://www.atlanticoavanti.com.br/)
 
-**Sinta-se à vontade para explorar o repositório; espero que ele seja útil para seus estudos.** 
+**Sinta-se à vontade para explorar o repositório; espero que ele seja útil para seus estudos.** ;)
